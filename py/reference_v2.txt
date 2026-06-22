@@ -1,0 +1,2361 @@
+﻿00:06.828  blend            | Read blend: "F:\blender\blender\材质+建模\火焰燃烧修改器_资产化前备份.blend"
+00:06.968  bpy.rna          | WARNING current value '2' matches no enum in 'FluidDomainSettings', '(null)', 'cache_particle_format'
+00:06.968  bpy.rna          | WARNING current value '0' matches no enum in 'FluidDomainSettings', '(null)', 'openvdb_cache_compress_type'
+<ref>:15: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+REFERENCE_BEGIN
+{
+  "objects": {
+    "球体": {
+      "props": {
+        "name": "球体",
+        "use_fake_user": false,
+        "use_extra_user": false,
+        "is_runtime_data": false,
+        "tag": false,
+        "asset_data": null,
+        "data": {
+          "type": "Mesh",
+          "name": "球体.001"
+        },
+        "parent": null,
+        "parent_type": "OBJECT",
+        "parent_vertices": [
+          0,
+          0,
+          0
+        ],
+        "parent_bone": "",
+        "use_parent_final_indices": false,
+        "use_camera_lock_parent": false,
+        "track_axis": "POS_Y",
+        "up_axis": "Z",
+        "active_material": null,
+        "active_material_index": 0,
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation_quaternion": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation_axis_angle": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        "rotation_euler": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation_mode": "XYZ",
+        "scale": [
+          0.565028190612793,
+          0.565028190612793,
+          0.565028190612793
+        ],
+        "dimensions": [
+          1.1300556659698486,
+          1.1300560235977173,
+          1.130056381225586
+        ],
+        "delta_location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "delta_rotation_euler": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "delta_rotation_quaternion": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "delta_scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "lock_location": [
+          false,
+          false,
+          false
+        ],
+        "lock_rotation": [
+          false,
+          false,
+          false
+        ],
+        "lock_rotation_w": false,
+        "lock_rotations_4d": true,
+        "lock_scale": [
+          false,
+          false,
+          false
+        ],
+        "matrix_world": [
+          [
+            0.565028190612793,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.565028190612793,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.565028190612793,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "matrix_local": [
+          [
+            0.565028190612793,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.565028190612793,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.565028190612793,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "matrix_basis": [
+          [
+            0.565028190612793,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.565028190612793,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.565028190612793,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "matrix_parent_inverse": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "empty_display_type": "PLAIN_AXES",
+        "empty_display_size": 1.0,
+        "empty_image_offset": [
+          0.0,
+          0.0
+        ],
+        "empty_image_depth": "DEFAULT",
+        "show_empty_image_perspective": true,
+        "show_empty_image_orthographic": true,
+        "show_empty_image_only_axis_aligned": false,
+        "use_empty_image_alpha": false,
+        "empty_image_side": "DOUBLE_SIDED",
+        "add_rest_position_attribute": false,
+        "pass_index": 0,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "use_simulation_cache": true,
+        "hide_viewport": false,
+        "hide_select": false,
+        "hide_render": false,
+        "hide_probe_volume": false,
+        "hide_probe_sphere": false,
+        "hide_probe_plane": false,
+        "hide_surface_pick": false,
+        "show_instancer_for_render": true,
+        "show_instancer_for_viewport": true,
+        "visible_camera": true,
+        "visible_diffuse": true,
+        "visible_glossy": true,
+        "visible_transmission": true,
+        "visible_volume_scatter": true,
+        "visible_shadow": true,
+        "is_holdout": false,
+        "is_shadow_catcher": false,
+        "instance_type": "NONE",
+        "use_instance_vertices_rotation": false,
+        "use_instance_faces_scale": false,
+        "instance_faces_scale": 1.0,
+        "instance_collection": null,
+        "display_type": "WIRE",
+        "show_bounds": false,
+        "display_bounds_type": "BOX",
+        "show_name": false,
+        "show_axis": false,
+        "show_texture_space": false,
+        "show_wire": false,
+        "show_all_edges": false,
+        "use_grease_pencil_lights": false,
+        "show_transparent": false,
+        "show_in_front": false,
+        "show_only_shape_key": false,
+        "use_shape_key_edit_mode": false,
+        "active_shape_key_index": 0,
+        "use_mesh_mirror_x": false,
+        "use_mesh_mirror_y": false,
+        "use_mesh_mirror_z": false,
+        "lightgroup": "",
+        "shadow_terminator_normal_offset": 0.0,
+        "shadow_terminator_geometry_offset": 0.10000000149011612,
+        "shadow_terminator_shading_offset": 0.0,
+        "active_selection_set": 0
+      },
+      "dimensions": [
+        1.1300556659698486,
+        1.1300560235977173,
+        1.130056381225586
+      ],
+      "field": null,
+      "materials": [],
+      "modifiers": [
+        {
+          "name": "流体",
+          "type": "FLUID",
+          "props": {
+            "name": "流体",
+            "show_viewport": true,
+            "show_render": true,
+            "show_in_editmode": false,
+            "show_on_cage": false,
+            "show_expanded": true,
+            "is_active": true,
+            "use_pin_to_last": false,
+            "use_apply_on_spline": false,
+            "fluid_type": "FLOW"
+          },
+          "flow": {
+            "density": 1.0,
+            "smoke_color": [
+              0.699999988079071,
+              0.699999988079071,
+              0.699999988079071
+            ],
+            "fuel_amount": 2.0,
+            "temperature": 1.0,
+            "particle_system": null,
+            "flow_type": "FIRE",
+            "flow_behavior": "INFLOW",
+            "flow_source": "MESH",
+            "use_absolute": true,
+            "use_initial_velocity": false,
+            "velocity_factor": 1.0,
+            "velocity_normal": 0.0,
+            "velocity_random": 0.0,
+            "velocity_coord": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "volume_density": 0.0,
+            "surface_distance": 1.0,
+            "use_plane_init": false,
+            "particle_size": 1.0,
+            "use_particle_size": true,
+            "use_inflow": true,
+            "subframes": 0,
+            "density_vertex_group": "",
+            "use_texture": true,
+            "texture_map_type": "AUTO",
+            "uv_layer": "",
+            "noise_texture": {
+              "type": "CloudsTexture",
+              "name": "纹理"
+            },
+            "texture_size": 1.0,
+            "texture_offset": 0.0
+          }
+        }
+      ]
+    },
+    "烟雾域": {
+      "props": {
+        "name": "烟雾域",
+        "use_fake_user": false,
+        "use_extra_user": false,
+        "is_runtime_data": false,
+        "tag": false,
+        "asset_data": null,
+        "data": {
+          "type": "Mesh",
+          "name": "立方体.001"
+        },
+        "parent": null,
+        "parent_type": "OBJECT",
+        "parent_vertices": [
+          0,
+          0,
+          0
+        ],
+        "parent_bone": "",
+        "use_parent_final_indices": false,
+        "use_camera_lock_parent": false,
+        "track_axis": "POS_Y",
+        "up_axis": "Z",
+        "active_material": {
+          "type": "Material",
+          "name": "烟雾域材质.001"
+        },
+        "active_material_index": 0,
+        "location": [
+          1.7881393432617188e-07,
+          1.7881393432617188e-07,
+          1.8146337270736694
+        ],
+        "rotation_quaternion": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation_axis_angle": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        "rotation_euler": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation_mode": "XYZ",
+        "scale": [
+          1.715503454208374,
+          1.715503454208374,
+          2.811652660369873
+        ],
+        "dimensions": [
+          3.431006908416748,
+          3.431006908416748,
+          5.623305320739746
+        ],
+        "delta_location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "delta_rotation_euler": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "delta_rotation_quaternion": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "delta_scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "lock_location": [
+          false,
+          false,
+          false
+        ],
+        "lock_rotation": [
+          false,
+          false,
+          false
+        ],
+        "lock_rotation_w": false,
+        "lock_rotations_4d": true,
+        "lock_scale": [
+          false,
+          false,
+          false
+        ],
+        "matrix_world": [
+          [
+            1.715503454208374,
+            0.0,
+            0.0,
+            1.7881393432617188e-07
+          ],
+          [
+            0.0,
+            1.715503454208374,
+            0.0,
+            1.7881393432617188e-07
+          ],
+          [
+            0.0,
+            0.0,
+            2.811652660369873,
+            1.8146337270736694
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "matrix_local": [
+          [
+            1.715503454208374,
+            0.0,
+            0.0,
+            1.7881393432617188e-07
+          ],
+          [
+            0.0,
+            1.715503454208374,
+            0.0,
+            1.7881393432617188e-07
+          ],
+          [
+            0.0,
+            0.0,
+            2.811652660369873,
+            1.8146337270736694
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "matrix_basis": [
+          [
+            1.715503454208374,
+            0.0,
+            0.0,
+            1.7881393432617188e-07
+          ],
+          [
+            0.0,
+            1.715503454208374,
+            0.0,
+            1.7881393432617188e-07
+          ],
+          [
+            0.0,
+            0.0,
+            2.811652660369873,
+            1.8146337270736694
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "matrix_parent_inverse": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "empty_display_type": "PLAIN_AXES",
+        "empty_display_size": 1.0,
+        "empty_image_offset": [
+          0.0,
+          0.0
+        ],
+        "empty_image_depth": "DEFAULT",
+        "show_empty_image_perspective": true,
+        "show_empty_image_orthographic": true,
+        "show_empty_image_only_axis_aligned": false,
+        "use_empty_image_alpha": false,
+        "empty_image_side": "DOUBLE_SIDED",
+        "add_rest_position_attribute": false,
+        "pass_index": 0,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "use_simulation_cache": true,
+        "hide_viewport": false,
+        "hide_select": false,
+        "hide_render": false,
+        "hide_probe_volume": false,
+        "hide_probe_sphere": false,
+        "hide_probe_plane": false,
+        "hide_surface_pick": false,
+        "show_instancer_for_render": true,
+        "show_instancer_for_viewport": true,
+        "visible_camera": true,
+        "visible_diffuse": true,
+        "visible_glossy": true,
+        "visible_transmission": true,
+        "visible_volume_scatter": true,
+        "visible_shadow": true,
+        "is_holdout": false,
+        "is_shadow_catcher": false,
+        "instance_type": "NONE",
+        "use_instance_vertices_rotation": false,
+        "use_instance_faces_scale": false,
+        "instance_faces_scale": 1.0,
+        "instance_collection": null,
+        "display_type": "WIRE",
+        "show_bounds": false,
+        "display_bounds_type": "BOX",
+        "show_name": false,
+        "show_axis": false,
+        "show_texture_space": false,
+        "show_wire": false,
+        "show_all_edges": false,
+        "use_grease_pencil_lights": false,
+        "show_transparent": false,
+        "show_in_front": false,
+        "show_only_shape_key": false,
+        "use_shape_key_edit_mode": false,
+        "active_shape_key_index": 0,
+        "use_mesh_mirror_x": false,
+        "use_mesh_mirror_y": false,
+        "use_mesh_mirror_z": false,
+        "lightgroup": "",
+        "shadow_terminator_normal_offset": 0.0,
+        "shadow_terminator_geometry_offset": 0.10000000149011612,
+        "shadow_terminator_shading_offset": 0.0,
+        "active_selection_set": 0
+      },
+      "dimensions": [
+        3.431006908416748,
+        3.431006908416748,
+        5.623305320739746
+      ],
+      "field": null,
+      "materials": [
+        "烟雾域材质.001"
+      ],
+      "modifiers": [
+        {
+          "name": "流体",
+          "type": "FLUID",
+          "props": {
+            "name": "流体",
+            "show_viewport": true,
+            "show_render": true,
+            "show_in_editmode": false,
+            "show_on_cage": false,
+            "show_expanded": true,
+            "is_active": true,
+            "use_pin_to_last": false,
+            "use_apply_on_spline": false,
+            "fluid_type": "DOMAIN"
+          },
+          "domain": {
+            "effector_group": null,
+            "fluid_group": null,
+            "force_collection": null,
+            "additional_res": 0,
+            "adapt_margin": 4,
+            "adapt_threshold": 0.0020000000949949026,
+            "use_adaptive_domain": true,
+            "resolution_max": 256,
+            "use_collision_border_front": false,
+            "use_collision_border_back": false,
+            "use_collision_border_right": false,
+            "use_collision_border_left": false,
+            "use_collision_border_top": false,
+            "use_collision_border_bottom": false,
+            "gravity": [
+              0.0,
+              0.0,
+              -9.8100004196167
+            ],
+            "domain_type": "GAS",
+            "delete_in_obstacle": false,
+            "alpha": 1.0,
+            "beta": 1.0,
+            "dissolve_speed": 5,
+            "vorticity": 0.0,
+            "highres_sampling": "FULLSAMPLE",
+            "use_dissolve_smoke": false,
+            "use_dissolve_smoke_log": true,
+            "burning_rate": 0.75,
+            "flame_smoke": 1.0,
+            "flame_vorticity": 0.10000000149011612,
+            "flame_ignition": 1.5,
+            "flame_max_temp": 3.0,
+            "flame_smoke_color": [
+              0.699999988079071,
+              0.699999988079071,
+              0.699999988079071
+            ],
+            "noise_strength": 1.0,
+            "noise_pos_scale": 2.0,
+            "noise_time_anim": 0.10000000149011612,
+            "noise_scale": 2,
+            "use_noise": false,
+            "simulation_method": "FLIP",
+            "flip_ratio": 0.9700000286102295,
+            "particle_randomness": 0.10000000149011612,
+            "particle_number": 2,
+            "particle_min": 8,
+            "particle_max": 16,
+            "particle_radius": 1.0,
+            "particle_band_width": 3.0,
+            "use_flip_particles": false,
+            "use_fractions": false,
+            "fractions_threshold": 0.05000000074505806,
+            "fractions_distance": 0.5,
+            "sys_particle_maximum": 0,
+            "use_viscosity": false,
+            "viscosity_value": 0.05000000074505806,
+            "use_diffusion": false,
+            "surface_tension": 0.0,
+            "viscosity_base": 1.0,
+            "viscosity_exponent": 6,
+            "mesh_concave_upper": 3.5,
+            "mesh_concave_lower": 0.4000000059604645,
+            "mesh_smoothen_pos": 1,
+            "mesh_smoothen_neg": 1,
+            "mesh_scale": 2,
+            "mesh_generator": "IMPROVED",
+            "use_mesh": true,
+            "use_speed_vectors": false,
+            "mesh_particle_radius": 2.0,
+            "sndparticle_potential_min_wavecrest": 2.0,
+            "sndparticle_potential_max_wavecrest": 8.0,
+            "sndparticle_potential_min_trappedair": 5.0,
+            "sndparticle_potential_max_trappedair": 20.0,
+            "sndparticle_potential_min_energy": 1.0,
+            "sndparticle_potential_max_energy": 5.0,
+            "sndparticle_sampling_wavecrest": 200,
+            "sndparticle_sampling_trappedair": 40,
+            "sndparticle_bubble_buoyancy": 0.5,
+            "sndparticle_bubble_drag": 0.6000000238418579,
+            "sndparticle_life_min": 10.0,
+            "sndparticle_life_max": 25.0,
+            "sndparticle_boundary": "DELETE",
+            "sndparticle_combined_export": "OFF",
+            "sndparticle_potential_radius": 2,
+            "sndparticle_update_radius": 2,
+            "particle_scale": 1,
+            "use_spray_particles": false,
+            "use_bubble_particles": false,
+            "use_foam_particles": false,
+            "use_tracer_particles": false,
+            "guide_alpha": 2.0,
+            "guide_beta": 5,
+            "guide_vel_factor": 2.0,
+            "guide_source": "DOMAIN",
+            "guide_parent": null,
+            "use_guide": false,
+            "cache_frame_start": 1,
+            "cache_frame_end": 60,
+            "cache_frame_offset": 0,
+            "cache_frame_pause_data": 60,
+            "cache_frame_pause_noise": 0,
+            "cache_frame_pause_mesh": 0,
+            "cache_frame_pause_particles": 0,
+            "cache_frame_pause_guide": 0,
+            "cache_mesh_format": "BOBJECT",
+            "cache_data_format": "OPENVDB",
+            "cache_particle_format": "",
+            "cache_noise_format": "OPENVDB",
+            "cache_type": "MODULAR",
+            "cache_resumable": true,
+            "cache_directory": "//cache_fluid_4b43a7ac",
+            "is_cache_baking_data": false,
+            "has_cache_baked_data": true,
+            "is_cache_baking_noise": false,
+            "has_cache_baked_noise": false,
+            "is_cache_baking_mesh": false,
+            "has_cache_baked_mesh": false,
+            "is_cache_baking_particles": false,
+            "has_cache_baked_particles": false,
+            "is_cache_baking_guide": false,
+            "has_cache_baked_guide": false,
+            "is_cache_baking_any": false,
+            "has_cache_baked_any": true,
+            "export_manta_script": false,
+            "openvdb_cache_compress_type": "",
+            "openvdb_data_depth": "16",
+            "time_scale": 1.0,
+            "use_adaptive_timesteps": true,
+            "cfl_condition": 4.0,
+            "timesteps_min": 1,
+            "timesteps_max": 4,
+            "use_slice": false,
+            "slice_axis": "AUTO",
+            "slice_per_voxel": 5.0,
+            "slice_depth": 0.5,
+            "display_thickness": 1.0,
+            "display_interpolation": "LINEAR",
+            "show_gridlines": false,
+            "show_velocity": false,
+            "vector_display_type": "NEEDLE",
+            "vector_field": "FLUID_VELOCITY",
+            "vector_scale_with_magnitude": true,
+            "vector_show_mac_x": true,
+            "vector_show_mac_y": true,
+            "vector_show_mac_z": true,
+            "vector_scale": 1.0,
+            "use_color_ramp": false,
+            "color_ramp_field": "DENSITY",
+            "color_ramp_field_scale": 1.0,
+            "clipping": 9.999999974752427e-07,
+            "gridlines_color_field": "NONE",
+            "gridlines_lower_bound": 0.0,
+            "gridlines_upper_bound": 1.0,
+            "gridlines_range_color": [
+              1.0,
+              0.0,
+              0.0,
+              1.0
+            ],
+            "gridlines_cell_filter": "NONE",
+            "velocity_scale": 1.0
+          }
+        }
+      ]
+    },
+    "紊流": {
+      "props": {
+        "name": "紊流",
+        "use_fake_user": false,
+        "use_extra_user": false,
+        "is_runtime_data": false,
+        "tag": false,
+        "asset_data": null,
+        "data": null,
+        "parent": null,
+        "parent_type": "OBJECT",
+        "parent_vertices": [
+          0,
+          0,
+          0
+        ],
+        "parent_bone": "",
+        "use_parent_final_indices": false,
+        "use_camera_lock_parent": false,
+        "track_axis": "POS_Y",
+        "up_axis": "Z",
+        "active_material": null,
+        "active_material_index": 0,
+        "location": [
+          0.0,
+          0.0,
+          1.647223711013794
+        ],
+        "rotation_quaternion": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation_axis_angle": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        "rotation_euler": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation_mode": "XYZ",
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "dimensions": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "delta_location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "delta_rotation_euler": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "delta_rotation_quaternion": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "delta_scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "lock_location": [
+          false,
+          false,
+          false
+        ],
+        "lock_rotation": [
+          false,
+          false,
+          false
+        ],
+        "lock_rotation_w": false,
+        "lock_rotations_4d": true,
+        "lock_scale": [
+          false,
+          false,
+          false
+        ],
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            1.647223711013794
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "matrix_local": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            1.647223711013794
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "matrix_basis": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            1.647223711013794
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "matrix_parent_inverse": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "empty_display_type": "PLAIN_AXES",
+        "empty_display_size": 1.0,
+        "empty_image_offset": [
+          -0.5,
+          -0.5
+        ],
+        "empty_image_depth": "DEFAULT",
+        "show_empty_image_perspective": true,
+        "show_empty_image_orthographic": true,
+        "show_empty_image_only_axis_aligned": false,
+        "use_empty_image_alpha": false,
+        "empty_image_side": "DOUBLE_SIDED",
+        "add_rest_position_attribute": false,
+        "pass_index": 0,
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "use_simulation_cache": true,
+        "hide_viewport": false,
+        "hide_select": false,
+        "hide_render": false,
+        "hide_probe_volume": false,
+        "hide_probe_sphere": false,
+        "hide_probe_plane": false,
+        "hide_surface_pick": false,
+        "show_instancer_for_render": true,
+        "show_instancer_for_viewport": true,
+        "visible_camera": true,
+        "visible_diffuse": true,
+        "visible_glossy": true,
+        "visible_transmission": true,
+        "visible_volume_scatter": true,
+        "visible_shadow": true,
+        "is_holdout": false,
+        "is_shadow_catcher": false,
+        "instance_type": "NONE",
+        "use_instance_vertices_rotation": false,
+        "use_instance_faces_scale": false,
+        "instance_faces_scale": 1.0,
+        "instance_collection": null,
+        "display_type": "TEXTURED",
+        "show_bounds": false,
+        "display_bounds_type": "BOX",
+        "show_name": false,
+        "show_axis": false,
+        "show_texture_space": false,
+        "show_wire": false,
+        "show_all_edges": false,
+        "use_grease_pencil_lights": false,
+        "show_transparent": false,
+        "show_in_front": false,
+        "show_only_shape_key": false,
+        "use_shape_key_edit_mode": false,
+        "active_shape_key_index": 0,
+        "use_mesh_mirror_x": false,
+        "use_mesh_mirror_y": false,
+        "use_mesh_mirror_z": false,
+        "lightgroup": "",
+        "shadow_terminator_normal_offset": 0.0,
+        "shadow_terminator_geometry_offset": 0.10000000149011612,
+        "shadow_terminator_shading_offset": 0.0,
+        "active_selection_set": 0
+      },
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "field": {
+        "type": "TURBULENCE",
+        "shape": "POINT",
+        "falloff_type": "SPHERE",
+        "texture_mode": "RGB",
+        "z_direction": "BOTH",
+        "strength": 0.4000000059604645,
+        "linear_drag": 0.4000000059604645,
+        "harmonic_damping": 1.0,
+        "quadratic_drag": 1.0,
+        "flow": 0.0,
+        "wind_factor": 0.0,
+        "inflow": 0.0,
+        "size": 0.0,
+        "rest_length": 0.0,
+        "falloff_power": 0.0,
+        "distance_min": 0.0,
+        "distance_max": 0.0,
+        "radial_min": 0.0,
+        "radial_max": 0.0,
+        "radial_falloff": 0.0,
+        "texture_nabla": 0.0,
+        "noise": 0.4000000059604645,
+        "seed": 12,
+        "use_min_distance": false,
+        "use_max_distance": false,
+        "use_radial_min": false,
+        "use_radial_max": false,
+        "use_object_coords": false,
+        "use_global_coords": false,
+        "use_2d_force": false,
+        "use_root_coords": false,
+        "apply_to_location": true,
+        "apply_to_rotation": true,
+        "use_absorption": false,
+        "use_multiple_springs": false,
+        "use_smoke_density": false,
+        "use_gravity_falloff": false,
+        "texture": null,
+        "source_object": null,
+        "guide_minimum": 0.4000000059604645,
+        "guide_free": 0.0,
+        "use_guide_path_add": false,
+        "use_guide_path_weight": false,
+        "guide_clump_amount": 0.0,
+        "guide_clump_shape": 0.0,
+        "guide_kink_type": "NONE",
+        "guide_kink_axis": "X",
+        "guide_kink_frequency": 0.0,
+        "guide_kink_shape": 0.0,
+        "guide_kink_amplitude": 0.0
+      },
+      "materials": [],
+      "modifiers": []
+    }
+  },
+  "materials": [
+    {
+      "name": "烟雾域材质",
+      "users": 0,
+      "fake": false,
+      "props": {
+        "name": "烟雾域材质",
+        "use_fake_user": false,
+        "use_extra_user": false,
+        "is_runtime_data": false,
+        "tag": false,
+        "asset_data": null,
+        "surface_render_method": "DITHERED",
+        "displacement_method": "BUMP",
+        "blend_method": "HASHED",
+        "alpha_threshold": 0.5,
+        "use_transparency_overlap": true,
+        "show_transparent_back": true,
+        "use_backface_culling": false,
+        "use_backface_culling_shadow": false,
+        "use_backface_culling_lightprobe_volume": true,
+        "use_transparent_shadow": true,
+        "use_raytrace_refraction": false,
+        "use_screen_refraction": false,
+        "use_sss_translucency": false,
+        "refraction_depth": 0.0,
+        "thickness_mode": "SPHERE",
+        "use_thickness_from_shadow": false,
+        "volume_intersection_method": "FAST",
+        "max_vertex_displacement": 0.0,
+        "preview_render_type": "SPHERE",
+        "use_preview_world": false,
+        "pass_index": 0,
+        "use_nodes": true,
+        "paint_active_slot": 0,
+        "paint_clone_slot": 0,
+        "diffuse_color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "specular_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughness": 0.4000000059604645,
+        "specular_intensity": 0.5,
+        "metallic": 0.0,
+        "line_color": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "line_priority": 0
+      },
+      "nodes": [
+        {
+          "name": "材质输出",
+          "type": "ShaderNodeOutputMaterial",
+          "location": [
+            1200.0,
+            150.0
+          ],
+          "props": {
+            "location": [
+              1200.0,
+              150.0
+            ],
+            "location_absolute": [
+              1200.0,
+              150.0
+            ],
+            "width": 140.0,
+            "height": 100.0,
+            "name": "材质输出",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": false,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": false,
+            "bl_idname": "ShaderNodeOutputMaterial",
+            "bl_label": "Material Output",
+            "bl_description": "Output surface material information for use in rendering",
+            "bl_icon": "NONE",
+            "bl_width_default": 140.0,
+            "bl_width_min": 100.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0,
+            "is_active_output": true,
+            "target": "ALL"
+          },
+          "inputs": [
+            {
+              "identifier": "Surface"
+            },
+            {
+              "identifier": "Volume"
+            },
+            {
+              "identifier": "Displacement",
+              "default_value": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "identifier": "Thickness",
+              "default_value": 0.0
+            }
+          ]
+        },
+        {
+          "name": "原理化体积",
+          "type": "ShaderNodeVolumePrincipled",
+          "location": [
+            800.0,
+            150.0
+          ],
+          "props": {
+            "location": [
+              800.0,
+              150.0
+            ],
+            "location_absolute": [
+              800.0,
+              150.0
+            ],
+            "width": 240.0,
+            "height": 100.0,
+            "name": "原理化体积",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": false,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": false,
+            "bl_idname": "ShaderNodeVolumePrincipled",
+            "bl_label": "Principled Volume",
+            "bl_description": "Combine all volume shading components into a single easy to use node",
+            "bl_icon": "NONE",
+            "bl_width_default": 240.0,
+            "bl_width_min": 140.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0
+          },
+          "inputs": [
+            {
+              "identifier": "Color",
+              "default_value": [
+                0.5,
+                0.5,
+                0.5,
+                1.0
+              ]
+            },
+            {
+              "identifier": "Color Attribute",
+              "default_value": ""
+            },
+            {
+              "identifier": "Density",
+              "default_value": 0.0
+            },
+            {
+              "identifier": "Density Attribute",
+              "default_value": "density"
+            },
+            {
+              "identifier": "Anisotropy",
+              "default_value": 0.0
+            },
+            {
+              "identifier": "Absorption Color",
+              "default_value": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            {
+              "identifier": "Emission Strength",
+              "default_value": 0.0
+            },
+            {
+              "identifier": "Emission Color",
+              "default_value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "identifier": "Blackbody Intensity",
+              "default_value": 0.0
+            },
+            {
+              "identifier": "Blackbody Tint",
+              "default_value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "identifier": "Temperature",
+              "default_value": 1000.0
+            },
+            {
+              "identifier": "Temperature Attribute",
+              "default_value": "temperature"
+            },
+            {
+              "identifier": "Weight",
+              "default_value": 0.0
+            }
+          ]
+        },
+        {
+          "name": "颜色渐变",
+          "type": "ShaderNodeValToRGB",
+          "location": [
+            443.76104736328125,
+            120.86286926269531
+          ],
+          "props": {
+            "location": [
+              443.76104736328125,
+              120.86286926269531
+            ],
+            "location_absolute": [
+              443.76104736328125,
+              120.86286926269531
+            ],
+            "width": 240.0,
+            "height": 100.0,
+            "name": "颜色渐变",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": false,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": false,
+            "bl_idname": "ShaderNodeValToRGB",
+            "bl_label": "Color Ramp",
+            "bl_description": "Map values to colors with the use of a gradient",
+            "bl_icon": "NONE",
+            "bl_width_default": 240.0,
+            "bl_width_min": 140.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0
+          },
+          "inputs": [
+            {
+              "identifier": "Fac",
+              "default_value": 0.5
+            }
+          ],
+          "ramp": {
+            "interpolation": "LINEAR",
+            "elements": [
+              {
+                "position": 0.7018179893493652,
+                "color": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              {
+                "position": 1.0,
+                "color": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "属性",
+          "type": "ShaderNodeAttribute",
+          "location": [
+            197.35910034179688,
+            68.73497009277344
+          ],
+          "props": {
+            "location": [
+              197.35910034179688,
+              68.73497009277344
+            ],
+            "location_absolute": [
+              197.35910034179688,
+              68.73497009277344
+            ],
+            "width": 140.0,
+            "height": 100.0,
+            "name": "属性",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": false,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": false,
+            "bl_idname": "ShaderNodeAttribute",
+            "bl_label": "Attribute",
+            "bl_description": "Retrieve attributes attached to objects or geometry",
+            "bl_icon": "NONE",
+            "bl_width_default": 140.0,
+            "bl_width_min": 100.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0,
+            "attribute_type": "GEOMETRY",
+            "attribute_name": "flame"
+          },
+          "inputs": []
+        }
+      ],
+      "links": [
+        [
+          "属性",
+          "Fac",
+          "颜色渐变",
+          "Fac"
+        ],
+        [
+          "颜色渐变",
+          "Color",
+          "原理化体积",
+          "Emission Strength"
+        ],
+        [
+          "原理化体积",
+          "Volume",
+          "材质输出",
+          "Volume"
+        ]
+      ]
+    },
+    {
+      "name": "烟雾域材质.001",
+      "users": 1,
+      "fake": false,
+      "props": {
+        "name": "烟雾域材质.001",
+        "use_fake_user": false,
+        "use_extra_user": false,
+        "is_runtime_data": false,
+        "tag": false,
+        "asset_data": null,
+        "surface_render_method": "DITHERED",
+        "displacement_method": "BUMP",
+        "blend_method": "HASHED",
+        "alpha_threshold": 0.5,
+        "use_transparency_overlap": true,
+        "show_transparent_back": true,
+        "use_backface_culling": false,
+        "use_backface_culling_shadow": false,
+        "use_backface_culling_lightprobe_volume": true,
+        "use_transparent_shadow": true,
+        "use_raytrace_refraction": false,
+        "use_screen_refraction": false,
+        "use_sss_translucency": false,
+        "refraction_depth": 0.0,
+        "thickness_mode": "SPHERE",
+        "use_thickness_from_shadow": false,
+        "volume_intersection_method": "FAST",
+        "max_vertex_displacement": 0.0,
+        "preview_render_type": "SPHERE",
+        "use_preview_world": false,
+        "pass_index": 0,
+        "use_nodes": true,
+        "paint_active_slot": 0,
+        "paint_clone_slot": 0,
+        "diffuse_color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "specular_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughness": 0.4000000059604645,
+        "specular_intensity": 0.5,
+        "metallic": 0.0,
+        "line_color": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "line_priority": 0
+      },
+      "nodes": [
+        {
+          "name": "材质输出",
+          "type": "ShaderNodeOutputMaterial",
+          "location": [
+            1769.197021484375,
+            109.2068099975586
+          ],
+          "props": {
+            "location": [
+              1769.197021484375,
+              109.2068099975586
+            ],
+            "location_absolute": [
+              1769.197021484375,
+              109.2068099975586
+            ],
+            "width": 140.0,
+            "height": 100.0,
+            "name": "材质输出",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": false,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": false,
+            "bl_idname": "ShaderNodeOutputMaterial",
+            "bl_label": "Material Output",
+            "bl_description": "Output surface material information for use in rendering",
+            "bl_icon": "NONE",
+            "bl_width_default": 140.0,
+            "bl_width_min": 100.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0,
+            "is_active_output": true,
+            "target": "ALL"
+          },
+          "inputs": [
+            {
+              "identifier": "Surface"
+            },
+            {
+              "identifier": "Volume"
+            },
+            {
+              "identifier": "Displacement",
+              "default_value": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "identifier": "Thickness",
+              "default_value": 0.0
+            }
+          ]
+        },
+        {
+          "name": "原理化体积",
+          "type": "ShaderNodeVolumePrincipled",
+          "location": [
+            1369.197265625,
+            109.2068099975586
+          ],
+          "props": {
+            "location": [
+              1369.197265625,
+              109.2068099975586
+            ],
+            "location_absolute": [
+              1369.197265625,
+              109.2068099975586
+            ],
+            "width": 240.0,
+            "height": 100.0,
+            "name": "原理化体积",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": false,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": false,
+            "bl_idname": "ShaderNodeVolumePrincipled",
+            "bl_label": "Principled Volume",
+            "bl_description": "Combine all volume shading components into a single easy to use node",
+            "bl_icon": "NONE",
+            "bl_width_default": 240.0,
+            "bl_width_min": 140.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0
+          },
+          "inputs": [
+            {
+              "identifier": "Color",
+              "default_value": [
+                0.5,
+                0.5,
+                0.5,
+                1.0
+              ]
+            },
+            {
+              "identifier": "Color Attribute",
+              "default_value": ""
+            },
+            {
+              "identifier": "Density",
+              "default_value": 0.0
+            },
+            {
+              "identifier": "Density Attribute",
+              "default_value": "density"
+            },
+            {
+              "identifier": "Anisotropy",
+              "default_value": 0.0
+            },
+            {
+              "identifier": "Absorption Color",
+              "default_value": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            },
+            {
+              "identifier": "Emission Strength",
+              "default_value": 0.0
+            },
+            {
+              "identifier": "Emission Color",
+              "default_value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "identifier": "Blackbody Intensity",
+              "default_value": 0.0
+            },
+            {
+              "identifier": "Blackbody Tint",
+              "default_value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ]
+            },
+            {
+              "identifier": "Temperature",
+              "default_value": 1000.0
+            },
+            {
+              "identifier": "Temperature Attribute",
+              "default_value": "temperature"
+            },
+            {
+              "identifier": "Weight",
+              "default_value": 0.0
+            }
+          ]
+        },
+        {
+          "name": "属性",
+          "type": "ShaderNodeAttribute",
+          "location": [
+            195.63119506835938,
+            33.47623825073242
+          ],
+          "props": {
+            "location": [
+              195.63119506835938,
+              33.47623825073242
+            ],
+            "location_absolute": [
+              195.63119506835938,
+              33.47623825073242
+            ],
+            "width": 140.0,
+            "height": 100.0,
+            "name": "属性",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": false,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": false,
+            "bl_idname": "ShaderNodeAttribute",
+            "bl_label": "Attribute",
+            "bl_description": "Retrieve attributes attached to objects or geometry",
+            "bl_icon": "NONE",
+            "bl_width_default": 140.0,
+            "bl_width_min": 100.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0,
+            "attribute_type": "GEOMETRY",
+            "attribute_name": "heat"
+          },
+          "inputs": []
+        },
+        {
+          "name": "颜色渐变",
+          "type": "ShaderNodeValToRGB",
+          "location": [
+            464.26788330078125,
+            50.20234298706055
+          ],
+          "props": {
+            "location": [
+              464.26788330078125,
+              50.20234298706055
+            ],
+            "location_absolute": [
+              464.26788330078125,
+              50.20234298706055
+            ],
+            "width": 240.0,
+            "height": 100.0,
+            "name": "颜色渐变",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": false,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": false,
+            "bl_idname": "ShaderNodeValToRGB",
+            "bl_label": "Color Ramp",
+            "bl_description": "Map values to colors with the use of a gradient",
+            "bl_icon": "NONE",
+            "bl_width_default": 240.0,
+            "bl_width_min": 140.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0
+          },
+          "inputs": [
+            {
+              "identifier": "Fac",
+              "default_value": 0.5
+            }
+          ],
+          "ramp": {
+            "interpolation": "EASE",
+            "elements": [
+              {
+                "position": 0.6936362981796265,
+                "color": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              {
+                "position": 0.9236364364624023,
+                "color": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ]
+              },
+              {
+                "position": 1.0,
+                "color": [
+                  0.018809938803315163,
+                  0.018809938803315163,
+                  0.018809938803315163,
+                  1.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "颜色渐变.001",
+          "type": "ShaderNodeValToRGB",
+          "location": [
+            462.50396728515625,
+            -165.4436798095703
+          ],
+          "props": {
+            "location": [
+              462.50396728515625,
+              -165.4436798095703
+            ],
+            "location_absolute": [
+              462.50396728515625,
+              -165.4436798095703
+            ],
+            "width": 240.0,
+            "height": 100.0,
+            "name": "颜色渐变.001",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": false,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": false,
+            "bl_idname": "ShaderNodeValToRGB",
+            "bl_label": "Color Ramp",
+            "bl_description": "Map values to colors with the use of a gradient",
+            "bl_icon": "NONE",
+            "bl_width_default": 240.0,
+            "bl_width_min": 140.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0
+          },
+          "inputs": [
+            {
+              "identifier": "Fac",
+              "default_value": 0.5
+            }
+          ],
+          "ramp": {
+            "interpolation": "LINEAR",
+            "elements": [
+              {
+                "position": 0.7018181085586548,
+                "color": [
+                  1.0,
+                  0.1253650188446045,
+                  0.022117478772997856,
+                  1.0
+                ]
+              },
+              {
+                "position": 1.0,
+                "color": [
+                  1.0,
+                  0.6684743762016296,
+                  0.06056980788707733,
+                  1.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "运算",
+          "type": "ShaderNodeMath",
+          "location": [
+            840.2459106445312,
+            104.12831115722656
+          ],
+          "props": {
+            "location": [
+              840.2459106445312,
+              104.12831115722656
+            ],
+            "location_absolute": [
+              840.2459106445312,
+              104.12831115722656
+            ],
+            "width": 140.0,
+            "height": 100.0,
+            "name": "运算",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": false,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": false,
+            "bl_idname": "ShaderNodeMath",
+            "bl_label": "Math",
+            "bl_description": "Perform math operations",
+            "bl_icon": "NONE",
+            "bl_width_default": 140.0,
+            "bl_width_min": 100.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0,
+            "operation": "MULTIPLY",
+            "use_clamp": false
+          },
+          "inputs": [
+            {
+              "identifier": "Value",
+              "default_value": 0.5
+            },
+            {
+              "identifier": "Value_001",
+              "default_value": 10.0
+            },
+            {
+              "identifier": "Value_002",
+              "default_value": 0.5
+            }
+          ]
+        },
+        {
+          "name": "噪波纹理",
+          "type": "ShaderNodeTexNoise",
+          "location": [
+            244.9455108642578,
+            377.2550048828125
+          ],
+          "props": {
+            "location": [
+              244.9455108642578,
+              377.2550048828125
+            ],
+            "location_absolute": [
+              244.9455108642578,
+              377.2550048828125
+            ],
+            "width": 145.0,
+            "height": 100.0,
+            "name": "噪波纹理",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": false,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": true,
+            "bl_idname": "ShaderNodeTexNoise",
+            "bl_label": "Noise Texture",
+            "bl_description": "Generate fractal Perlin noise",
+            "bl_icon": "NONE",
+            "bl_width_default": 145.0,
+            "bl_width_min": 140.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0,
+            "noise_dimensions": "3D",
+            "noise_type": "FBM",
+            "normalize": true
+          },
+          "inputs": [
+            {
+              "identifier": "Vector",
+              "default_value": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "identifier": "W",
+              "default_value": 0.0
+            },
+            {
+              "identifier": "Scale",
+              "default_value": 8.0
+            },
+            {
+              "identifier": "Detail",
+              "default_value": 9.399999618530273
+            },
+            {
+              "identifier": "Roughness",
+              "default_value": 0.5
+            },
+            {
+              "identifier": "Lacunarity",
+              "default_value": 2.0
+            },
+            {
+              "identifier": "Offset",
+              "default_value": 0.0
+            },
+            {
+              "identifier": "Gain",
+              "default_value": 1.0
+            },
+            {
+              "identifier": "Distortion",
+              "default_value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "颜色渐变.002",
+          "type": "ShaderNodeValToRGB",
+          "location": [
+            481.79010009765625,
+            378.6423034667969
+          ],
+          "props": {
+            "location": [
+              481.79010009765625,
+              378.6423034667969
+            ],
+            "location_absolute": [
+              481.79010009765625,
+              378.6423034667969
+            ],
+            "width": 240.0,
+            "height": 100.0,
+            "name": "颜色渐变.002",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": true,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": false,
+            "bl_idname": "ShaderNodeValToRGB",
+            "bl_label": "Color Ramp",
+            "bl_description": "Map values to colors with the use of a gradient",
+            "bl_icon": "NONE",
+            "bl_width_default": 240.0,
+            "bl_width_min": 140.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0
+          },
+          "inputs": [
+            {
+              "identifier": "Fac",
+              "default_value": 0.5
+            }
+          ],
+          "ramp": {
+            "interpolation": "LINEAR",
+            "elements": [
+              {
+                "position": 0.3963637351989746,
+                "color": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              {
+                "position": 1.0,
+                "color": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "运算.001",
+          "type": "ShaderNodeMath",
+          "location": [
+            1105.5341796875,
+            96.35960388183594
+          ],
+          "props": {
+            "location": [
+              1105.5341796875,
+              96.35960388183594
+            ],
+            "location_absolute": [
+              1105.5341796875,
+              96.35960388183594
+            ],
+            "width": 140.0,
+            "height": 100.0,
+            "name": "运算.001",
+            "label": "",
+            "parent": null,
+            "warning_propagation": "ALL",
+            "use_custom_color": false,
+            "color": [
+              0.6079999804496765,
+              0.6079999804496765,
+              0.6079999804496765
+            ],
+            "select": false,
+            "show_options": true,
+            "show_preview": false,
+            "hide": false,
+            "mute": false,
+            "show_texture": false,
+            "bl_idname": "ShaderNodeMath",
+            "bl_label": "Math",
+            "bl_description": "Perform math operations",
+            "bl_icon": "NONE",
+            "bl_width_default": 140.0,
+            "bl_width_min": 100.0,
+            "bl_width_max": 700.0,
+            "bl_height_default": 100.0,
+            "bl_height_min": 30.0,
+            "bl_height_max": 30.0,
+            "operation": "MULTIPLY",
+            "use_clamp": false
+          },
+          "inputs": [
+            {
+              "identifier": "Value",
+              "default_value": 0.5
+            },
+            {
+              "identifier": "Value_001",
+              "default_value": 10.0
+            },
+            {
+              "identifier": "Value_002",
+              "default_value": 0.5
+            }
+          ]
+        }
+      ],
+      "links": [
+        [
+          "原理化体积",
+          "Volume",
+          "材质输出",
+          "Volume"
+        ],
+        [
+          "属性",
+          "Fac",
+          "颜色渐变",
+          "Fac"
+        ],
+        [
+          "运算.001",
+          "Value",
+          "原理化体积",
+          "Emission Strength"
+        ],
+        [
+          "属性",
+          "Fac",
+          "颜色渐变.001",
+          "Fac"
+        ],
+        [
+          "颜色渐变.001",
+          "Color",
+          "原理化体积",
+          "Emission Color"
+        ],
+        [
+          "颜色渐变",
+          "Color",
+          "运算",
+          "Value"
+        ],
+        [
+          "运算",
+          "Value",
+          "运算.001",
+          "Value"
+        ],
+        [
+          "噪波纹理",
+          "Fac",
+          "颜色渐变.002",
+          "Fac"
+        ],
+        [
+          "颜色渐变.002",
+          "Color",
+          "运算",
+          "Value_001"
+        ]
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "纹理",
+      "type": "CLOUDS",
+      "props": {
+        "name": "纹理",
+        "use_fake_user": false,
+        "use_extra_user": false,
+        "is_runtime_data": false,
+        "tag": false,
+        "asset_data": null,
+        "type": "CLOUDS",
+        "use_clamp": true,
+        "use_color_ramp": false,
+        "intensity": 1.0,
+        "contrast": 5.0,
+        "saturation": 1.0,
+        "factor_red": 1.0,
+        "factor_green": 1.0,
+        "factor_blue": 1.0,
+        "use_preview_alpha": false,
+        "use_nodes": false,
+        "noise_scale": 0.10000000149011612,
+        "noise_depth": 2,
+        "noise_basis": "BLENDER_ORIGINAL",
+        "noise_type": "SOFT_NOISE",
+        "cloud_type": "GRAYSCALE",
+        "nabla": 0.02500000037252903
+      }
+    }
+  ]
+}
+REFERENCE_END
+Blender 5.1.1 (hash b70da489d7f4 built 2026-04-14 01:37:22)
+
+Blender quit
